@@ -1,0 +1,24 @@
+C:\Users\Enrico\Documents\Visual Studio 2015\Projects\Prime Analytics Desktop Client\Prime Analytics Desktop Client\bin\x86\Debug\Prime Analytics Desktop Client.exe.config
+C:\Users\Enrico\Documents\Visual Studio 2015\Projects\Prime Analytics Desktop Client\Prime Analytics Desktop Client\obj\x86\Debug\Prime Analytics Desktop Client.csprojResolveAssemblyReference.cache
+C:\Users\Enrico\Documents\Visual Studio 2015\Projects\Prime Analytics Desktop Client\Prime Analytics Desktop Client\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Enrico\Documents\Visual Studio 2015\Projects\Prime Analytics Desktop Client\Prime Analytics Desktop Client\obj\x86\Debug\App.g.cs
+C:\Users\Enrico\Documents\Visual Studio 2015\Projects\Prime Analytics Desktop Client\Prime Analytics Desktop Client\obj\x86\Debug\Prime Analytics Desktop Client_MarkupCompile.cache
+C:\Users\Enrico\Documents\Visual Studio 2015\Projects\Prime Analytics Desktop Client\Prime Analytics Desktop Client\obj\x86\Debug\Prime Analytics Desktop Client_MarkupCompile.lref
+C:\Users\Enrico\Documents\Visual Studio 2015\Projects\Prime Analytics Desktop Client\Prime Analytics Desktop Client\bin\x86\Debug\Prime Analytics Desktop Client.exe
+C:\Users\Enrico\Documents\Visual Studio 2015\Projects\Prime Analytics Desktop Client\Prime Analytics Desktop Client\bin\x86\Debug\Prime Analytics Desktop Client.pdb
+C:\Users\Enrico\Documents\Visual Studio 2015\Projects\Prime Analytics Desktop Client\Prime Analytics Desktop Client\bin\x86\Debug\CefSharp.Core.dll
+C:\Users\Enrico\Documents\Visual Studio 2015\Projects\Prime Analytics Desktop Client\Prime Analytics Desktop Client\bin\x86\Debug\CefSharp.dll
+C:\Users\Enrico\Documents\Visual Studio 2015\Projects\Prime Analytics Desktop Client\Prime Analytics Desktop Client\bin\x86\Debug\CefSharp.Wpf.dll
+C:\Users\Enrico\Documents\Visual Studio 2015\Projects\Prime Analytics Desktop Client\Prime Analytics Desktop Client\bin\x86\Debug\CefSharp.Wpf.xml
+C:\Users\Enrico\Documents\Visual Studio 2015\Projects\Prime Analytics Desktop Client\Prime Analytics Desktop Client\bin\x86\Debug\CefSharp.xml
+C:\Users\Enrico\Documents\Visual Studio 2015\Projects\Prime Analytics Desktop Client\Prime Analytics Desktop Client\bin\x86\Debug\CefSharp.Core.xml
+C:\Users\Enrico\Documents\Visual Studio 2015\Projects\Prime Analytics Desktop Client\Prime Analytics Desktop Client\obj\x86\Debug\MainWindow.baml
+C:\Users\Enrico\Documents\Visual Studio 2015\Projects\Prime Analytics Desktop Client\Prime Analytics Desktop Client\obj\x86\Debug\Prime Analytics Desktop Client.g.resources
+C:\Users\Enrico\Documents\Visual Studio 2015\Projects\Prime Analytics Desktop Client\Prime Analytics Desktop Client\obj\x86\Debug\Prime_Analytics_Desktop_Client.Properties.Resources.resources
+C:\Users\Enrico\Documents\Visual Studio 2015\Projects\Prime Analytics Desktop Client\Prime Analytics Desktop Client\obj\x86\Debug\Prime Analytics Desktop Client.csproj.GenerateResource.Cache
+C:\Users\Enrico\Documents\Visual Studio 2015\Projects\Prime Analytics Desktop Client\Prime Analytics Desktop Client\obj\x86\Debug\Prime Analytics Desktop Client.exe
+C:\Users\Enrico\Documents\Visual Studio 2015\Projects\Prime Analytics Desktop Client\Prime Analytics Desktop Client\obj\x86\Debug\Prime Analytics Desktop Client.pdb
+C:\Users\Enrico\Documents\Visual Studio 2015\Projects\Prime Analytics Desktop Client\Prime Analytics Desktop Client\bin\x86\Debug\MahApps.Metro.dll
+C:\Users\Enrico\Documents\Visual Studio 2015\Projects\Prime Analytics Desktop Client\Prime Analytics Desktop Client\bin\x86\Debug\System.Windows.Interactivity.dll
+C:\Users\Enrico\Documents\Visual Studio 2015\Projects\Prime Analytics Desktop Client\Prime Analytics Desktop Client\bin\x86\Debug\MahApps.Metro.xml
+C:\Users\Enrico\Documents\Visual Studio 2015\Projects\Prime Analytics Desktop Client\Prime Analytics Desktop Client\obj\x86\Debug\App.baml

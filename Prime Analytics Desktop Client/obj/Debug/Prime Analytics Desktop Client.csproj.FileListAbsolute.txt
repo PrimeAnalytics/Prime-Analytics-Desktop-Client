@@ -1,0 +1,14 @@
+c:\users\enrico\documents\visual studio 2015\Projects\Prime Analytics Desktop Client\Prime Analytics Desktop Client\bin\Debug\Prime Analytics Desktop Client.exe.config
+c:\users\enrico\documents\visual studio 2015\Projects\Prime Analytics Desktop Client\Prime Analytics Desktop Client\bin\Debug\Prime Analytics Desktop Client.exe
+c:\users\enrico\documents\visual studio 2015\Projects\Prime Analytics Desktop Client\Prime Analytics Desktop Client\bin\Debug\Prime Analytics Desktop Client.pdb
+c:\users\enrico\documents\visual studio 2015\Projects\Prime Analytics Desktop Client\Prime Analytics Desktop Client\obj\Debug\Prime Analytics Desktop Client.csprojResolveAssemblyReference.cache
+c:\users\enrico\documents\visual studio 2015\Projects\Prime Analytics Desktop Client\Prime Analytics Desktop Client\obj\Debug\MainWindow.g.cs
+c:\users\enrico\documents\visual studio 2015\Projects\Prime Analytics Desktop Client\Prime Analytics Desktop Client\obj\Debug\App.g.cs
+c:\users\enrico\documents\visual studio 2015\Projects\Prime Analytics Desktop Client\Prime Analytics Desktop Client\obj\Debug\Prime Analytics Desktop Client_MarkupCompile.cache
+c:\users\enrico\documents\visual studio 2015\Projects\Prime Analytics Desktop Client\Prime Analytics Desktop Client\obj\Debug\Prime Analytics Desktop Client_MarkupCompile.lref
+c:\users\enrico\documents\visual studio 2015\Projects\Prime Analytics Desktop Client\Prime Analytics Desktop Client\obj\Debug\MainWindow.baml
+c:\users\enrico\documents\visual studio 2015\Projects\Prime Analytics Desktop Client\Prime Analytics Desktop Client\obj\Debug\Prime Analytics Desktop Client.g.resources
+c:\users\enrico\documents\visual studio 2015\Projects\Prime Analytics Desktop Client\Prime Analytics Desktop Client\obj\Debug\Prime_Analytics_Desktop_Client.Properties.Resources.resources
+c:\users\enrico\documents\visual studio 2015\Projects\Prime Analytics Desktop Client\Prime Analytics Desktop Client\obj\Debug\Prime Analytics Desktop Client.csproj.GenerateResource.Cache
+c:\users\enrico\documents\visual studio 2015\Projects\Prime Analytics Desktop Client\Prime Analytics Desktop Client\obj\Debug\Prime Analytics Desktop Client.exe
+c:\users\enrico\documents\visual studio 2015\Projects\Prime Analytics Desktop Client\Prime Analytics Desktop Client\obj\Debug\Prime Analytics Desktop Client.pdb
